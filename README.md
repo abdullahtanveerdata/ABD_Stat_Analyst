@@ -77,3 +77,5 @@ Additional visual themes
 ⚠️ Disclaimer
 
 This tool helps streamline common analyses, but it’s not a substitute for a statistician. Always confirm assumptions and the suitability of each method for your study design.
+To RUN this tool
+https://abdstatanalyst-evzi9vcrmkdqml2p6ufjjy.streamlit.app/
