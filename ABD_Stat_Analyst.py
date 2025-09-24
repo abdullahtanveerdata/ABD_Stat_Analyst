@@ -358,7 +358,7 @@ def build_zip_export(name_prefix: str, tables: Dict[str, pd.DataFrame], interpre
 
 # ======================== UI ==========================
 
-st.title("📊 Stat‑Analyst — Interactive Statistical Analysis")
+st.title("Bio-Stat— Interactive Statistical Analysis")
 st.caption("Upload data ➜ preprocess ➜ normality ➜ auto‑suggest tests ➜ effect sizes ➜ diagnostics ➜ downloads ➜ graphs")
 
 with st.sidebar:
@@ -727,4 +727,5 @@ else:  # Graph builder
 
 st.divider()
 st.caption("Now with effect sizes (Cohen’s d, η²/ω², Cliff’s δ, epsilon²), diagnostics (QQ & residuals), and one‑click ZIP downloads of results.")
+
 st.caption("Developed by Muhammad Abdullah Tanveer-BioInfoQuant (https://bioinfoquant.com)")
